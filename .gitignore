@@ -166,3 +166,10 @@ cython_debug/
 # Datasets
 *.csv
 cache/
+
+# VSCode
+.vscode/
+
+# Outputs
+out/
+svg-inkscape/
